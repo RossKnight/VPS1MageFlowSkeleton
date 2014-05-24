@@ -7,6 +7,7 @@
 public/app/etc/local.xml
 public/var/locks/*
 public/var/cache/*
+public/var/session/*
 public/downloader/*.cfg
 public/.gitignore
 public/var/package/tmp/
